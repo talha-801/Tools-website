@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://talha-801.github.io/Tools-website/sitemap.xml
